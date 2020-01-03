@@ -1,0 +1,29 @@
+.Dashboard{
+    background-color: #E5F4EC;
+    width: 800px;
+    margin: auto;
+    padding: 10px;
+}
+.Dashboard > main > div > span{
+    font-size: 40px;
+    color: #3b5249;
+}
+
+.newBtn{
+    color: #3b5249;
+    background-color: #8aea92;
+    font-size: 22px;
+    border: 0px;
+    padding: 4px;
+}
+
+.dash-title{
+    display: flex;
+    justify-content: space-between;
+}
+
+.listing{
+    font-weight: bold;
+    font-size: 18px;
+    padding:10px;
+}

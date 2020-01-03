@@ -1,4 +1,6 @@
 .House{
     background-color: #DEDEDE;
     margin: 10px;
+    display: flex;
+    justify-content: space-between;
 }

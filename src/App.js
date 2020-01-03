@@ -9,7 +9,9 @@ function App() {
   return (
     <HashRouter>
       <Header />
-      {routes}
+      <main className='main'>
+        {routes}
+      </main>
     </HashRouter>
   );
 }
